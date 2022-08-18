@@ -1,0 +1,46 @@
+body{
+    background-color: #f5ebe5;
+    
+}
+.nav{
+    background-color: #e8cfc1;
+       
+}
+p{
+    color: #523e27;
+}
+a{
+    text-decoration:none;
+    color: #523e27;
+}
+#imgLogo{
+    margin-right: 30%;
+}
+.linkNav{
+    margin-right: 80px;
+    color: #523e27;
+    margin-top: 10px;
+}
+#sobreMim{
+    background-color: #efe0d7;
+    height: 400px;
+}
+#sMH2{
+   size: 50px; 
+}
+#foto1{
+    margin-right: 20px;
+    margin-left:10px;
+    max-width:400px;
+    max-height:350px;
+    width: auto;
+    height: auto;
+}
+#texto1{
+    margin-left:10px;
+}
+#hobbies{
+    background: url(./img/hobbies.jpg) no-repeat;
+    
+}
+
