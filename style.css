@@ -3,15 +3,29 @@ body{
     
 }
 .nav{
+    font-family: 'Roboto', sans-serif;
     background-color: #e8cfc1;
        
 }
 p{
     color: #523e27;
+    margin-top: 2px;
+    margin-left: 5px;
+    margin-right: 5px;
+    font-weight: bolder;
+    font-family: 'Roboto', sans-serif;
 }
 a{
     text-decoration:none;
     color: #523e27;
+}
+h2{ 
+    font-family: 'Roboto Mono', monospace;
+    color: #2a2116;
+}
+h3{
+    font-family: 'Roboto', sans-serif;
+    color: #1d1710;
 }
 #imgLogo{
     margin-right: 30%;
@@ -19,28 +33,70 @@ a{
 .linkNav{
     margin-right: 80px;
     color: #523e27;
-    margin-top: 10px;
+   
 }
 #sobreMim{
-    background-color: #efe0d7;
-    height: 400px;
+    background-color: #dcd3cd;
+    
 }
 #sMH2{
    size: 50px; 
 }
 #foto1{
+    border-radius: 3px;
     margin-right: 20px;
     margin-left:10px;
+    margin-bottom: 5px;
+    margin-top: 5px;
     max-width:400px;
     max-height:350px;
     width: auto;
     height: auto;
 }
+
 #texto1{
+    color: #523e27;
     margin-left:10px;
 }
 #hobbies{
-    background: url(./img/hobbies.jpg) no-repeat;
+    background-color: #D9BEB4;
     
 }
-
+.texto2{
+    color: #523e27;
+    margin-left:10px;
+}
+.video{
+    max-width:400px;
+    max-height:350px;
+    width: auto;
+    height: auto;
+    margin-right:10px;
+    border-radius: 5px;
+    border-style: none;
+    margin-top: 10px;
+}
+.citacao{
+    font-size:larger;
+    font-family: 'Roboto Mono', monospace;
+}
+.autor{
+    margin-top: -15px;
+    font-size: smaller;
+}
+.links{
+    margin-bottom: 10px;
+}
+.projetos{
+    background-color:#CCB4A5; 
+}
+.footer{
+    font-family: 'Roboto', sans-serif;
+    background-color: #d1c8c2;
+}
+#barraFinal{
+    margin-left: 380px;
+    font-size: medium;
+    color: #523e27;
+    margin-top: 30px;
+}
